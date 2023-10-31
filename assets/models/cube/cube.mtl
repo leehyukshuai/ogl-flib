@@ -1,0 +1,10 @@
+# Blender 3.2.2 MTL File: 'None'
+# www.blender.org
+
+# for empty material:
+
+# use DefaultMaterial:
+# Ambient color: (0, 0, 0)
+# Diffuse color: (0.6, 0.6, 0.6)
+# Specular color: (0, 0, 0)
+# Shininess: 0

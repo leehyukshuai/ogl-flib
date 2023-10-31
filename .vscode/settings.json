@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "*.txt": "cmake",
+        "*.frag": "glsl",
+        "*.cpp": "cpp",
+        "*.vert": "glsl",
+    },
+    "cmake.configureOnOpen": true
+}
